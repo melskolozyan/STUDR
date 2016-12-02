@@ -1,0 +1,300 @@
+California Institute of Technology 2285
+University of Chicago 2215
+Harvey Mudd College 2210
+Massachusetts Institute of Technology 2207
+Vanderbilt University 2207
+Washington University in St Louis 2201
+Harvard University 2193
+Franklin W Olin College of Engineering 2190
+Yale University 2184
+Princeton University 2170
+Columbia University in the City of New York 2169
+Northwestern University 2166
+University of Notre Dame 2165
+Pomona College 2162
+Rice University 2162
+Stanford University 2159
+Duke University 2150
+University of Pennsylvania 2145
+Williams College 2144
+Johns Hopkins University 2139
+Dartmouth College 2135
+Amherst College 2125
+Haverford College 2125
+Tufts University 2125
+Northeastern University 2120
+Swarthmore College 2118
+Claremont McKenna College 2112
+Brown University 2111
+Cornell University 2111
+Carnegie Mellon University 2105
+Georgetown University 2102
+Carleton College 2101
+Vassar College 2101
+Washington and Lee University 2089
+Grinnell College 2087
+Hamilton College 2081
+Georgia Institute of Technology-Main Campus 2078
+Wellesley College 2078
+Reed College 2070
+Boston College 2059
+Middlebury College 2057
+University of Michigan-Ann Arbor 2055
+Colgate University 2047
+College of William and Mary 2047
+University of Southern California 2045
+Rensselaer Polytechnic Institute 2043
+Case Western Reserve University 2040
+Emory University 2036
+Cooper Union for the Advancement of Science and Art 2035
+Scripps College 2031
+University of California-Berkeley 2025
+Macalester College 2024
+Oberlin College 2021
+University of Virginia-Main Campus 2015
+Barnard College 2012
+Brandeis University 2012
+Tulane University of Louisiana 2012
+St John 2004
+Kenyon College 1998
+New York University 1996
+Davidson College 1995
+University of Richmond 1994
+Stevens Institute of Technology 1993
+Colorado School of Mines 1991
+Colby College 1990
+Jewish Theological Seminary of America 1990
+Lehigh University 1985
+United States Air Force Academy 1983
+University of Miami 1982
+University of North Carolina at Chapel Hill 1981
+Whitman College 1975
+Southern Methodist University 1968
+University of Illinois at Urbana-Champaign 1963
+University of Maryland-College Park 1963
+Bucknell University 1962
+Villanova University 1962
+Wheaton College 1960
+Santa Clara University 1959
+Bryn Mawr College 1958
+University of California-Los Angeles 1958
+Occidental College 1945
+Rhodes College 1942
+George Washington University 1938
+Rose-Hulman Institute of Technology 1935
+Lafayette College 1934
+Brigham Young University-Provo 1933
+University of California-San Diego 1933
+University of Tulsa 1928
+Boston University 1927
+Ohio State University-Main Campus 1925
+New College of Florida 1925
+St Olaf College 1924
+The University of Texas at Austin 1923
+United States Naval Academy 1921
+SUNY at Binghamton 1920
+Trinity University 1920
+Missouri University of Science and Technology 1920
+University of Wisconsin-Madison 1919
+Pontifical College Josephinum 1915
+Thomas Aquinas College 1912
+United States Military Academy 1910
+University of Pittsburgh-Pittsburgh Campus 1904
+University of Florida 1903
+University of Minnesota-Twin Cities 1902
+Illinois Institute of Technology 1892
+Babson College 1891
+Centre College 1888
+American University 1885
+Clemson University 1883
+United States Coast Guard Academy 1883
+The University of Texas at Dallas 1881
+Fordham University 1877
+Emerson College 1874
+University of Georgia 1870
+Illinois Wesleyan University 1870
+North Carolina State University at Raleigh 1869
+Michigan Technological University 1863
+Milwaukee School of Engineering 1863
+University of San Diego 1859
+Hendrix College 1859
+University of California-Santa Barbara 1859
+Miami University-Oxford 1858
+Saint Louis University 1856
+Drake University 1856
+Skidmore College 1855
+Rhode Island School of Design 1855
+Kalamazoo College 1854
+Stony Brook University 1853
+University of Connecticut 1852
+CUNY Bernard M Baruch College 1851
+California Polytechnic State University-San Luis Obispo 1849
+Bentley University 1847
+Rochester Institute of Technology 1846
+Transylvania University 1843
+Florida State University 1843
+University of Puget Sound 1843
+University of Denver 1843
+Pepperdine University 1842
+The College of Wooster 1838
+University of Washington-Seattle Campus 1837
+Elon University 1836
+Baylor University 1836
+Kettering University 1834
+Truman State University 1834
+SUNY College at Geneseo 1831
+Marquette University 1828
+Yeshiva University 1826
+University of Alabama in Huntsville 1825
+University of South Carolina-Columbia 1825
+University of Massachusetts-Amherst 1824
+Loyola Marymount University 1819
+University of Dallas 1819
+Loyola University Chicago 1818
+Auburn University 1817
+University of California-Davis 1814
+DePauw University 1814
+Chapman University 1812
+Willamette University 1812
+Gonzaga University 1811
+The College of New Jersey 1809
+DigiPen Institute of Technology 1807
+University of Colorado Boulder 1807
+Butler University 1806
+University of Maryland-Baltimore County 1805
+Texas Christian University 1805
+Mercer University 1805
+Virginia Polytechnic Institute and State University 1804
+Grove City College 1801
+Soka University of America 1801
+Purdue University-Main Campus 1800
+Texas A - M University-College Station 1796
+The University of Tennessee-Knoxville 1796
+St Mary 1795
+University of North Carolina at Asheville 1795
+Creighton University 1795
+Cornell College 1791
+University of Portland 1790
+Rutgers University-New Brunswick 1790
+University of Dayton 1788
+Indiana University-Bloomington 1788
+Wofford College 1788
+SUNY College of Environmental Science and Forestry 1788
+New Mexico Institute of Mining and Technology 1787
+University of Vermont 1784
+St Louis College of Pharmacy 1781
+University of Delaware 1781
+University of Oklahoma-Norman Campus 1780
+Pennsylvania State University-Main Campus 1778
+Cedarville University 1778
+University of Central Florida 1776
+Clarkson University 1775
+University of Puerto Rico-Rio Piedras 1775
+Drury University 1775
+Hope College 1775
+Berry College 1773
+Seattle University 1773
+Franciscan University of Steubenville 1772
+Birmingham Southern College 1771
+Calvin College 1771
+Taylor University 1771
+Covenant College 1769
+South Dakota School of Mines and Technology 1767
+College of Saint Benedict 1767
+Ohio Northern University 1767
+University of Jamestown 1766
+Millsaps College 1764
+Syracuse University 1764
+Westmont College 1764
+Drexel University 1764
+Belmont University 1763
+Florida Institute of Technology 1761
+Lipscomb University 1760
+Simmons College 1760
+University of the Pacific 1759
+Florida Polytechnic University 1757
+The University of Alabama 1756
+Allegheny College 1756
+Maryland Institute College of Art 1752
+LeTourneau University 1750
+Concordia College at Moorhead 1749
+University of South Florida-St Petersburg 1749
+Union University 1749
+University of Missouri-Columbia 1749
+Oklahoma City University 1748
+University at Buffalo 1748
+Samford University 1747
+Oklahoma Baptist University 1746
+University of Iowa 1746
+Rockhurst University 1745
+University of Cincinnati-Main Campus 1744
+Virginia Military Institute 1743
+Bradley University 1742
+Augustana University 1741
+Louisiana State University and Agricultural - Mechanical College 1741
+University of South Florida-Main Campus 1740
+Gordon College 1740
+CUNY Hunter College 1740
+Mills College 1739
+Austin College 1738
+Southwestern University 1738
+University of the Sciences 1737
+University of Arkansas 1733
+University of Florida-Online 1733
+Luther College 1732
+Saint Johns University 1732
+Valparaiso University 1730
+Albany College of Pharmacy and Health Sciences 1729
+James Madison University 1729
+Champlain College 1728
+Michigan State University 1728
+Christopher Newport University 1728
+George Mason University 1728
+Eckerd College 1727
+Florida Southern College 1723
+University of San Francisco 1723
+University of California-Irvine 1723
+New Jersey Institute of Technology 1722
+Appalachian State University 1721
+University of Minnesota-Morris 1720
+Hofstra University 1720
+Bethel University 1718
+Duquesne University 1718
+University of Puerto Rico-Cayey 1718
+Coe College 1717
+Saint Mary 1717
+University of Massachusetts-Lowell 1717
+University of Nebraska-Lincoln 1717
+University of Wisconsin-La Crosse 1717
+Warren Wilson College 1717
+Arizona State University-Tempe 1716
+University of Kansas 1716
+University of Evansville 1715
+University of North Carolina Wilmington 1715
+Oglethorpe University 1715
+University of Louisville 1715
+Seattle Pacific University 1713
+Nova Southeastern University 1712
+University of California-Santa Cruz 1710
+William Jewell College 1710
+University of Kentucky 1710
+Iowa State University 1708
+University of Houston 1708
+Maryville University of Saint Louis 1706
+Pratt Institute-Main 1706
+Arizona State University-Polytechnic 1705
+College of Charleston 1705
+Oklahoma State University-Main Campus 1703
+The King 1703
+University of North Florida 1702
+Asbury University 1701
+Loyola University New Orleans 1701
+Southern Polytechnic State University 1701
+Carroll College 1700
+Georgia College and State University 1700
+Point Loma Nazarene University 1700
+Elizabethtown College 1699
+North Greenville University 1698
+Catholic University of America 1695
+Harding University 1695
+CUNY City College 1692

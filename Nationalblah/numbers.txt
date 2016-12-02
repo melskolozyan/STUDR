@@ -1,0 +1,804 @@
+1100.0
+Massachusetts Institute of Technology (MIT) Massachusetts Institute of Technology (MIT) United States
+298.7
+Harvard UniversityHarvard University United States
+398.6
+University of CambridgeUniversity of Cambridge United Kingdom
+398.6
+Stanford UniversityStanford University United States
+597.9
+California Institute of Technology (Caltech)California Institute of Technology (Caltech) United States
+697.7
+University of OxfordUniversity of Oxford United Kingdom
+797.2
+UCL (University College London)UCL (University College London) United Kingdom
+896.1
+Imperial College LondonImperial College London United Kingdom
+995.5
+ETH Zurich - Swiss Federal Institute of TechnologyETH Zurich - Swiss Federal Institute of Technology Switzerland
+1094.6
+University of ChicagoUniversity of Chicago United States
+1194.4
+Princeton UniversityPrinceton University United States
+1294.2
+National University of Singapore (NUS)National University of Singapore (NUS) Singapore
+1393.9
+Nanyang Technological University, Singapore (NTU)Nanyang Technological University, Singapore (NTU) Singapore
+1493.8
+Ecole Polytechnique Fédérale de Lausanne (EPFL)Ecole Polytechnique Fédérale de Lausanne (EPFL) Switzerland
+1592.2
+Yale UniversityYale University United States
+1691.9
+Johns Hopkins UniversityJohns Hopkins University United States
+1791.8
+Cornell UniversityCornell University United States
+1891.5
+University of PennsylvaniaUniversity of Pennsylvania United States
+1991.0
+King's College LondonKing's College London United Kingdom
+1991.0
+The Australian National UniversityThe Australian National University Australia
+2190.8
+The University of EdinburghThe University of Edinburgh United Kingdom
+2289.7
+Columbia UniversityColumbia University United States
+2389.2
+Ecole normale supérieure, ParisEcole normale supérieure, Paris France
+2488.6
+McGill UniversityMcGill University Canada
+2588.5
+Tsinghua UniversityTsinghua University China
+2688.4
+University of California, Berkeley (UCB)University of California, Berkeley (UCB) United States
+2788.2
+University of California, Los Angeles (UCLA)University of California, Los Angeles (UCLA) United States
+2888.0
+The Hong Kong University of Science and TechnologyThe Hong Kong University of Science and Technology Hong Kong
+2987.9
+Duke UniversityDuke University United States
+3087.8
+The University of Hong KongThe University of Hong Kong Hong Kong
+3087.8
+University of MichiganUniversity of Michigan United States
+3287.7
+Northwestern UniversityNorthwestern University United States
+3387.2
+The University of ManchesterThe University of Manchester United Kingdom
+3487.1
+University of TorontoUniversity of Toronto Canada
+3586.2
+London School of Economics and Political Science (LSE)London School of Economics and Political Science (LSE) United Kingdom
+3685.3
+Seoul National UniversitySeoul National University South Korea
+3785.0
+University of BristolUniversity of Bristol United Kingdom
+3884.9
+Kyoto UniversityKyoto University Japan
+3984.8
+The University of TokyoThe University of Tokyo Japan
+4083.8
+Ecole PolytechniqueEcole Polytechnique France
+4183.7
+Peking UniversityPeking University China
+4283.1
+The University of MelbourneThe University of Melbourne Australia
+4382.6
+KAIST - Korea Advanced Institute of Science & TechnologyKAIST - Korea Advanced Institute of Science & Technology South Korea
+4482.5
+University of California, San Diego (UCSD)University of California, San Diego (UCSD) United States
+4581.9
+The University of SydneyThe University of Sydney Australia
+4681.8
+The University of New South Wales (UNSW Australia)The University of New South Wales (UNSW Australia) Australia
+4681.8
+The University of QueenslandThe University of Queensland Australia
+4881.6
+The University of WarwickThe University of Warwick United Kingdom
+4981.5
+Brown UniversityBrown University United States
+5081.2
+University of British ColumbiaUniversity of British Columbia Canada
+5181.1
+The Chinese University of Hong Kong (CUHK)The Chinese University of Hong Kong (CUHK) Hong Kong
+5181.1
+Fudan UniversityFudan University China
+5380.5
+New York University (NYU)New York University (NYU) United States
+5480.3
+University of Wisconsin-MadisonUniversity of Wisconsin-Madison United States
+5580.2
+University of AmsterdamUniversity of Amsterdam Netherlands
+5679.4
+Tokyo Institute of TechnologyTokyo Institute of Technology Japan
+5779.2
+City University of Hong KongCity University of Hong Kong Hong Kong
+5878.3
+Osaka UniversityOsaka University Japan
+5977.5
+University of Illinois at Urbana-ChampaignUniversity of Illinois at Urbana-Champaign United States
+6077.3
+Technical University of MunichTechnical University of Munich Germany
+6177.0
+Durham UniversityDurham University United Kingdom
+6276.8
+Carnegie Mellon UniversityCarnegie Mellon University United States
+6276.8
+University of GlasgowUniversity of Glasgow United Kingdom
+6476.5
+Delft University of TechnologyDelft University of Technology Netherlands
+6576.3
+University of WashingtonUniversity of Washington United States
+6676.1
+Ruprecht-Karls-Universitaet HeidelbergRuprecht-Karls-Universitaet Heidelberg Germany
+6776.0
+Monash UniversityMonash University Australia
+6875.9
+University of St AndrewsUniversity of St Andrews United Kingdom
+6975.7
+University of CopenhagenUniversity of Copenhagen Denmark
+7075.4
+The University of NottinghamThe University of Nottingham United Kingdom
+7075.4
+Lund UniversityLund University Sweden
+7075.4
+National Taiwan University (NTU)National Taiwan University (NTU) Taiwan
+7075.4
+Shanghai Jiao Tong UniversityShanghai Jiao Tong University China
+7475.2
+Tohoku UniversityTohoku University Japan
+7574.7
+Ludwig-Maximilians-Universität MünchenLudwig-Maximilians-Universität München Germany
+7674.6
+University of BirminghamUniversity of Birmingham United Kingdom
+7774.5
+University of Texas at AustinUniversity of Texas at Austin United States
+7874.3
+Trinity College Dublin, The University of DublinTrinity College Dublin, The University of Dublin Ireland
+7973.7
+University of North Carolina, Chapel HillUniversity of North Carolina, Chapel Hill United States
+8073.6
+The University of SheffieldThe University of Sheffield United Kingdom
+8172.8
+University of SouthamptonUniversity of Southampton United Kingdom
+8272.4
+The University of AucklandThe University of Auckland New Zealand
+8272.4
+KU LeuvenKU Leuven Belgium
+8472.3
+Georgia Institute of TechnologyGeorgia Institute of Technology United States
+8572.2
+University of ZurichUniversity of Zurich Switzerland
+8572.2
+University of California, DavisUniversity of California, Davis United States
+8772.0
+University of LeedsUniversity of Leeds United Kingdom
+8772.0
+Pohang University of Science And Technology (POSTECH)Pohang University of Science And Technology (POSTECH) South Korea
+8971.2
+University of GenevaUniversity of Geneva Switzerland
+8971.2
+Purdue UniversityPurdue University United States
+9171.1
+Boston UniversityBoston University United States
+9270.9
+KTH Royal Institute of Technology KTH Royal Institute of Technology Sweden
+9370.8
+KIT, Karlsruhe Institute of TechnologyKIT, Karlsruhe Institute of Technology Germany
+9470.7
+Utrecht UniversityUtrecht University Netherlands
+9570.3
+Leiden UniversityLeiden University Netherlands
+9670.1
+University of AlbertaUniversity of Alberta Canada
+9670.1
+University of HelsinkiUniversity of Helsinki Finland
+9869.4
+The University of Western AustraliaThe University of Western Australia Australia
+9969.3
+The Ohio State UniversityThe Ohio State University United States
+10068.8
+University of GroningenUniversity of Groningen Netherlands
+10168.7
+Pennsylvania State UniversityPennsylvania State University United States
+10268.4
+Uppsala UniversityUppsala University Sweden
+10368.3
+University of YorkUniversity of York United Kingdom
+10468.2
+Korea UniversityKorea University South Korea
+10567.9
+Yonsei UniversityYonsei University South Korea
+10667.8
+Rice University United States
+10767.4
+Aarhus UniversityAarhus University Denmark
+10867.2
+Lomonosov Moscow State University Lomonosov Moscow State University Russia
+10967.0
+Queen Mary University of LondonQueen Mary University of London United Kingdom
+11066.9
+Washington University in St. LouisWashington University in St. Louis United States
+11066.9
+Zhejiang UniversityZhejiang University China
+11266.8
+Technical University of DenmarkTechnical University of Denmark Denmark
+11366.7
+The University of AdelaideThe University of Adelaide Australia
+11366.7
+University of Science and Technology of ChinaUniversity of Science and Technology of China China
+11566.6
+Université de Montréal Université de Montréal Canada
+11666.3
+The Hong Kong Polytechnic UniversityThe Hong Kong Polytechnic University Hong Kong
+11766.2
+Eindhoven University of Technology Netherlands
+11866.1
+Sungkyunkwan University (SKKU)Sungkyunkwan University (SKKU) South Korea
+11965.7
+Freie Universitaet BerlinFreie Universitaet Berlin Germany
+12065.6
+Nagoya UniversityNagoya University Japan
+12165.5
+Lancaster UniversityLancaster University United Kingdom
+12265.0
+Cardiff UniversityCardiff University United Kingdom
+12364.9
+University of Minnesota United States
+12464.6
+Universidad de Buenos Aires (UBA) Argentina
+12464.6
+Ghent UniversityGhent University Belgium
+12664.5
+Erasmus University Rotterdam Erasmus University Rotterdam Netherlands
+12664.5
+Humboldt-Universität zu Berlin Germany
+12664.5
+University of Maryland, College Park United States
+12964.3
+University of California, Santa Barbara (UCSB) United States
+13064.2
+University of Southern California United States
+13064.2
+Nanjing University China
+13264.0
+Chalmers University of TechnologyChalmers University of Technology Sweden
+13363.5
+Albert-Ludwigs-Universitaet Freiburg Germany
+13363.5
+University of Pittsburgh United States
+13563.4
+Wageningen University Netherlands
+13563.4
+University of Oslo Norway
+13763.2
+University of AberdeenUniversity of Aberdeen United Kingdom
+13763.2
+Université Pierre et Marie Curie (UPMC) France
+13963.1
+University of Basel Switzerland
+13963.1
+Aalto University Finland
+13963.1
+Hokkaido University Japan
+14262.7
+Kyushu University Japan
+14362.4
+University of Lausanne Switzerland
+14362.4
+Universidade de São Paulo Brazil
+14562.2
+RWTH Aachen University Germany
+14662.1
+Universiti Malaya (UM) Malaysia
+14762.0
+Indian Institute of Science (IISc) Bangalore India
+14861.8
+The Hebrew University of Jerusalem Israel
+14961.5
+Université Catholique de Louvain (UCL) Belgium
+14961.5
+McMaster University Canada
+15161.1
+University of Liverpool United Kingdom
+15260.9
+University of WaterlooUniversity of Waterloo Canada
+15360.8
+University of Vienna Austria
+15460.5
+University College Dublin Ireland
+15560.2
+National Tsing Hua University Taiwan
+15660.1
+CentraleSupélec France
+15660.1
+University of ReadingUniversity of Reading United Kingdom
+15860.0
+Dartmouth College United States
+15959.8
+University of BathUniversity of Bath United Kingdom
+15959.7
+Texas A&M University United States
+16059.6
+Universidad Nacional Autónoma de México (UNAM) Mexico
+16159.5
+The University of ExeterThe University of Exeter United Kingdom
+16259.4
+Newcastle UniversityNewcastle University United Kingdom
+16359.2
+University of California, IrvineUniversity of California, Irvine United States
+16458.9
+Michigan State University United States
+16558.8
+Emory University United States
+16658.6
+University of Bern Switzerland
+16658.6
+University of Barcelona Spain
+16858.5
+Georg-August-University Goettingen Germany
+16958.2
+Maastricht University Maastricht University Netherlands
+17058.1
+Pontificia Universidad Católica de Chile (UC)Pontificia Universidad Católica de Chile (UC) Chile
+17157.8
+University of Cape Town South Africa
+17257.7
+University of Virginia United States
+17357.0
+University of OtagoUniversity of Otago New Zealand
+17357.0
+Eberhard Karls Universität Tübingen Germany
+17556.9
+University of Colorado Boulder United States
+17656.8
+Vrije Universiteit AmsterdamVrije Universiteit Amsterdam Netherlands
+17756.7
+Radboud University Radboud University Netherlands
+17856.6
+Technische Universität Berlin (TU Berlin) Germany
+17956.4
+Indian Institute of Technology Delhi (IITD) India
+18056.1
+University of Florida United States
+18155.9
+University of Bergen Norway
+18255.8
+Queen's University BelfastQueen's University Belfast United Kingdom
+18255.8
+National Chiao Tung University Taiwan
+18255.8
+Stockholm University Sweden
+18555.7
+University of Illinois, Chicago (UIC) United States
+18655.5
+Universidad Autónoma de MadridUniversidad Autónoma de Madrid Spain
+18755.6
+University of SussexUniversity of Sussex United Kingdom
+18755.2
+Politecnico di MilanoPolitecnico di Milano Italy
+18855.1
+University of TwenteUniversity of Twente Netherlands
+18855.1
+École Normale Supérieure de Lyon France
+19054.8
+University of Rochester United States
+19054.8
+Universitat Autònoma de BarcelonaUniversitat Autònoma de Barcelona Spain
+19254.6
+The University of Western OntarioThe University of Western Ontario Canada
+19354.4
+Hanyang University South Korea
+19454.2
+Vrije Universiteit Brussel (VUB) Belgium
+19554.1
+University of Notre Dame United States
+19554.1
+Universidade Estadual de Campinas (Unicamp) Brazil
+19753.9
+Vienna University of Technology Austria
+19853.8
+Technion - Israel Institute of Technology Israel
+19953.5
+King Fahd University of Petroleum & Minerals Saudi Arabia
+20252.8
+Indian Institute of Technology Bombay (IITB) India
+20352.7
+Tel Aviv University Israel
+20452.5
+University of Calgary Canada
+20452.5
+Alma Mater Studiorum - University of BolognaAlma Mater Studiorum - University of Bologna Italy
+20652.4
+Queen's University at Kingston Canada
+20752.0
+Universite libre de Bruxelles Belgium
+20851.9
+University of Antwerp Belgium
+20951.6
+Universidad de Chile Chile
+21051.4
+Rheinische Friedrich-Wilhelms-Universität Bonn Germany
+21151.2
+University of Canterbury New Zealand
+21251.1
+Waseda UniversityWaseda University Japan
+21351.0
+Georgetown University United States
+21351.0
+Sapienza University of Rome Italy
+21550.8
+Case Western Reserve University United States
+21650.7
+Vanderbilt University United States
+21650.7
+The University of Arizona United States
+21850.5
+University of Technology SydneyUniversity of Technology Sydney Australia
+21950.4
+Universität Hamburg Germany
+21950.4
+University of Tsukuba Japan
+21950.4
+Keio University Japan
+22250.3
+Université Paris-Sorbonne (Paris IV) France
+22350.2
+Sciences Po France
+22450.1
+National Cheng Kung University (NCKU) Taiwan
+22550.0
+Simon Fraser University Canada
+22649.7
+University Complutense Madrid Spain
+22749.6
+Technische Universität Dresden Germany
+22849.5
+Loughborough UniversityLoughborough University United Kingdom
+22949.4
+Macquarie UniversityMacquarie University Australia
+22949.4
+Victoria University of Wellington New Zealand
+23149.3
+Royal Holloway University of London United Kingdom
+23249.2
+Beijing Normal University China
+23349.1
+University College Cork Ireland
+23349.1
+University of Turku Finland
+23548.9
+University of Leicester United Kingdom
+23548.9
+Université Joseph Fourier - Grenoble 1 France
+23748.7
+King Saud University Saudi Arabia
+23848.6
+Instituto Tecnológico y de Estudios Superiores de Monterrey Mexico
+23948.4
+University of East Anglia (UEA)University of East Anglia (UEA) United Kingdom
+24048.2
+Université Paris 1 Panthéon-Sorbonne France
+24148.1
+Université de Strasbourg France
+24148.1
+Université Paris-Sud France
+24348.0
+University of WollongongUniversity of Wollongong Australia
+24348.0
+Universität Frankfurt am Main Germany
+24348.0
+University of Massachusetts Amherst United States
+24647.7
+Technische Universität Darmstadt Germany
+24747.6
+University of SurreyUniversity of Surrey United Kingdom
+24747.6
+University of Gothenburg Sweden
+24947.5
+University of StrathclydeUniversity of Strathclyde United Kingdom
+24947.5
+Arizona State University United States
+25147.0
+Universität Stuttgart Germany
+25246.9
+Tufts University United States
+25346.8
+Chulalongkorn University Thailand
+25446.6
+Norwegian University of Science And Technology Norway
+25446.6
+Indian Institute of Technology Madras (IITM) India
+25646.4
+The University of Newcastle, Australia (UoN)The University of Newcastle, Australia (UoN) Australia
+25646.4
+Saint-Petersburg State University Russia
+25646.4
+Westfälische Wilhelms-Universitat Münster Germany
+25946.2
+Ben Gurion University of The Negev Israel
+26046.1
+National Taiwan University of Science and Technology (Taiwan Tech) Taiwan
+26146.0
+ University of Dundee University of Dundee United Kingdom
+26146.0
+Université Paris Diderot - Paris 7 France
+26345.8
+Queensland University of Technology (QUT)Queensland University of Technology (QUT) Australia
+26345.8
+Indiana University Bloomington United States
+26545.5
+Université de Liège Belgium
+26545.5
+University of Navarra Spain
+26545.5
+University of California, Riverside United States
+26845.4
+American University of Beirut (AUB) Lebanon
+26945.2
+Rutgers University - New Brunswick United States
+26945.2
+University of California, Santa Cruz United States
+27145.0
+National University of Ireland, Galway Ireland
+27145.0
+Indian Institute of Technology Kanpur (IITK) India
+27344.9
+RMIT UniversityRMIT University Australia
+27344.9
+Wuhan University China
+27544.8
+SOAS University of London SOAS University of London United Kingdom
+27544.8
+Al-Farabi Kazakh National UniversityAl-Farabi Kazakh National University Kazakhstan
+27744.7
+Dalhousie University Canada
+27744.7
+Nankai University China
+27944.6
+Charles University in Prague Czech Republic
+28044.5
+University of Miami United States
+28144.3
+Hong Kong Baptist University Hong Kong
+28244.2
+Boston College United States
+28343.9
+Universidad de los Andes Colombia
+28443.8
+Curtin UniversityCurtin University Australia
+28443.8
+University of Ottawa Canada
+28643.7
+Linköping UniversityLinköping University Sweden
+28643.7
+Indian Institute of Technology Kharagpur (IIT-KGP) India
+28843.6
+University of South AustraliaUniversity of South Australia Australia
+28943.4
+Universiti Sains Malaysia (USM) Malaysia
+29043.1
+Birkbeck, University of LondonBirkbeck, University of London United Kingdom
+29043.1
+Universidad Nacional de Colombia Colombia
+29143.0
+Harbin Institute of Technology China
+29242.9
+Friedrich-Alexander-Universität Erlangen-Nürnberg Germany
+29342.8
+Ecole Normale Supérieure de Cachan France
+29342.8
+Tilburg University Netherlands
+29542.6
+Universität Innsbruck Austria
+29542.6
+Universitat Pompeu FabraUniversitat Pompeu Fabra Spain
+29542.6
+Kyung Hee University South Korea
+29542.6
+Mahidol University Thailand
+29942.5
+Universitat Politècnica de Catalunya Spain
+30142.4
+City University LondonCity University London United Kingdom
+30242.3
+Stellenbosch University South Africa
+30341.9
+University of EssexUniversity of Essex United Kingdom
+30341.9
+King Abdulaziz University (KAU) Saudi Arabia
+30341.9
+Universiti Teknologi Malaysia Malaysia
+30641.8
+University of MilanUniversity of Milan Italy
+30741.7
+Sun Yat-sen University China
+30841.6
+University of Porto Portugal
+30941.4
+North Carolina State University United States
+30941.4
+Universidad Austral Argentina
+30941.4
+Università di Padova Italy
+31241.3
+University of Iowa United States
+31241.3
+Universiti Kebangsaan Malaysia (UKM) Malaysia
+31441.1
+École des Ponts ParisTech France
+31441.1
+Politecnico di TorinoPolitecnico di Torino Italy
+31441.1
+Universidad Carlos III de Madrid (UC3M)Universidad Carlos III de Madrid (UC3M) Spain
+31741.0
+Novosibirsk State University Russia
+31840.5
+Heriot-Watt University United Kingdom
+31940.4
+University of Victoria Canada
+31940.4
+Universität Konstanz Germany
+31940.4
+University of Jyväskylä Finland
+31940.4
+Umea University Sweden
+32340.3
+Universidade Federal do Rio de Janeiro Brazil
+32440.1
+Oxford Brookes UniversityOxford Brookes University United Kingdom
+32440.1
+Deakin UniversityDeakin University Australia
+32440.1
+Laval University Canada
+32740.0
+George Washington UniversityGeorge Washington University United States
+32740.0
+University of Hawai'i at Mañoa United States
+32939.9
+University of St.Gallen (HSG)University of St.Gallen (HSG) Switzerland
+32939.9
+Griffith UniversityGriffith University Australia
+33139.7
+Brunel University LondonBrunel University London United Kingdom
+33139.7
+Universiti Putra Malaysia (UPM) Malaysia
+33139.7
+University of Cologne Germany
+33139.7
+University of the WitwatersrandUniversity of the Witwatersrand South Africa
+33139.7
+Xi’an Jiaotong University China
+33739.4
+Massey University New Zealand
+33839.2
+University of Waikato New Zealand
+33839.2
+University at Buffalo SUNY United States
+33839.2
+University Ulm Germany
+33839.2
+Virginia Polytechnic Institute and State University United States
+33839.2
+National Yang Ming University Taiwan
+33839.2
+Bauman Moscow State Technical UniversityBauman Moscow State Technical University Russia
+34439.0
+University of Warsaw Poland
+34538.9
+Tongji University China
+34538.9
+The American University in Cairo Egypt
+34638.8
+Aston UniversityAston University United Kingdom
+34738.8
+University of Eastern Finland Finland
+34838.5
+Rensselaer Polytechnic Institute United States
+34838.5
+Hiroshima University Japan
+35038.4
+Pontificia Universidad Católica Argentina Santa María de los Buenos Aires (UCA) Argentina
+35138.2
+Universität Bremen Germany
+35138.2
+Universidade Nova de LisboaUniversidade Nova de Lisboa Portugal
+35338.1
+Dublin City University Ireland
+35438.0
+Ewha Womans University South Korea
+35537.9
+Iowa State University United States
+35637.8
+Aalborg UniversityAalborg University Denmark
+35637.8
+Tampere University of Technology Finland
+35837.7
+University of Oulu Finland
+35837.7
+Universitas IndonesiaUniversitas Indonesia Indonesia
+36037.6
+University of KentUniversity of Kent United Kingdom
+36137.5
+University of Southern Denmark Denmark
+36137.5
+Aix-Marseille University France
+36137.5
+Washington State University United States
+36137.5
+Kobe University Japan
+36537.4
+Northeastern University United States
+36637.2
+Leibniz Universität Hannover Germany
+36737.1
+University of Coimbra Portugal
+36737.1
+University of PisaUniversity of Pisa Italy
+36936.9
+Université Paris Dauphine France
+36936.9
+University of Utah United States
+37136.8
+L.N. Gumilyov Eurasian National University (ENU)L.N. Gumilyov Eurasian National University (ENU) Kazakhstan
+37236.7
+Stony Brook University, State University of New YorkStony Brook University, State University of New York United States
+37336.6
+Lincoln University Lincoln University New Zealand
+37336.6
+American University United States
+37536.5
+Johannes Gutenberg Universität Mainz Germany
+37636.4
+National Taiwan Normal University Taiwan
+37636.4
+Université de Montpellier France
+37636.4
+National Technical University of Athens Greece
+37936.2
+University of Tasmania Australia
+37936.2
+National Sun Yat-sen University Taiwan
+38136.1
+Brandeis University United States
+38136.1
+Universität Jena Germany
+38136.1
+Beihang University (former BUAA) China
+38436.0
+University of StirlingUniversity of Stirling United Kingdom
+38436.0
+Universität Leipzig Germany
+38436.0
+Yeshiva University United States
+38735.9
+Institut National des Sciences Appliquées de Lyon (INSA) France
+38735.9
+Université Paris Descartes France
+38735.9
+James Cook UniversityJames Cook University Australia
+39035.8
+University of Connecticut United States
+39135.7
+Tokyo Medical and Dental University (TMDU) Japan
+39135.7
+Indian Institute of Technology Roorkee (IITR) India
+39335.6
+University of Kansas United States
+39435.5
+La Trobe University Australia
+39435.5
+Universität Mannheim Germany
+39435.5
+Bilkent University Turkey
+39735.1
+Moscow State Institute of International Relations (MGIMO University)Moscow State Institute of International Relations (MGIMO University) Russia
+39735.1
+Université Paul Sabatier Toulouse III France
+39735.1
+National Central University Taiwan
+40035.0
+Swansea UniversitySwansea University United Kingdom
+40035.0
+University of Tartu Estonia
+401-410
+Beijing Institute of Technology China
